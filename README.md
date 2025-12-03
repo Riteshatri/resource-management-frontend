@@ -1,6 +1,6 @@
 <h1 id="top">🚀 Resource Management Dashboard - Complete Deployment Guide</h1>
 
-> **3-Tier Azure Architecture**: Frontend (React) + Backend (Python FastAPI) + Azure SQL Database
+> **3-Tier Azure Architecture**: Frontend (React) + Backend (Python FastAPI) + Azure SQL Database  
 > Default Admin Username = ritesh@apka.bhai  
 > Default Password = Aagebadho
 
