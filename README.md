@@ -12,7 +12,7 @@ This guide will take you from **ZERO to FULL PRODUCTION** deployment on Azure VM
 
 ---
 
-## 🌐 [📺 Live Demo →](https://riteshatri.github.io/resource-management-frontend/) | [📖 Full Documentation, Backend Deployment Guide →](https://riteshatri.github.io/resource-management-frontend/Quick_Start.html)
+## 🌐 [📺 Live Demo →](https://riteshatri.github.io/resource-management-frontend/) | [📖 Full Documentation, Frontend Deployment Guide →](https://riteshatri.github.io/resource-management-frontend/Quick_Start.html)
 
 > 👆👆👆 **Click above to view the live deployed application complete setup guide**
 
