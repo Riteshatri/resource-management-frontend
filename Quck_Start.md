@@ -86,7 +86,7 @@ sudo apt install -y nginx
 sudo rm -rf /var/www/html/*
 
 # Create Nginx configuration
-sudo nano /etc/nginx/sites-available/default
+# sudo nano /etc/nginx/sites-available/default
 
     #  Create Nginx configuration to another folder , if you want to deploy your site to another folder than default
     # sudo nano /etc/nginx/sites-available/ritesh
@@ -242,7 +242,7 @@ sudo mv * /var/www/html/
 
 ```bash
 # Create Nginx configuration
-sudo nano /etc/nginx/sites-available/default
+# sudo nano /etc/nginx/sites-available/default
 ```
 ## Run this command on your Frontend VM:
 
