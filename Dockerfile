@@ -38,15 +38,11 @@ ENTRYPOINT ["/docker-entrypoint.sh"]
 CMD ["nginx", "-g", "daemon off;"]
 
 
-
-
-# docker build -t resource-management-frontend .
-
-# docker run -d -p 5000:80 --name resource-management-frontend resource-management-frontend
+# docker build -t resource-management-frontend:v1 .
 
 # docker run -d -p 80:80 \
 #   -e BACKEND_HOST=10.0.0.5 \
 #   -e BACKEND_PORT=8000 \
 #   riteshatri/resource-management-frontend:tag
 
-# docker run -d -p 1234:80 -e BACKEND_HOST=192.168.29.27 -e BACKEND_PORT=8000 resource-management-frontend
+# docker run -d -p 80:80 --name resource-management-frontend -e BACKEND_HOST=192.168.29.27 -e BACKEND_PORT=8000 resource-management-frontend:v1
